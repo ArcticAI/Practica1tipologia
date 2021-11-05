@@ -1,2 +1,2 @@
-# Practica1tipologia
-Javier Martínez Delgado y David Fonfría Solabarrieta
+# Práctica 1 de tipología
+Grupo formado por Javier Martínez Delgado y David Fonfría Solabarrieta
